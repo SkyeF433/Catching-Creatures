@@ -1,2 +1,2 @@
-# Catching-Creatures
-My own game idea when you catch the creatures
+# staticSquare
+A static square made using Matter.js physics engine
